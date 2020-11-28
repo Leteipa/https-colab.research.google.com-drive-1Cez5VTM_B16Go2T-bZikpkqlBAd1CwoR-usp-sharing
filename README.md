@@ -1,1 +1,2 @@
-# https-colab.research.google.com-drive-1Cez5VTM_B16Go2T-bZikpkqlBAd1CwoR-usp-sharing
+This was a project of analysis for an electric car-sharing service company to help identify the most popular time for picking up and returning the shared electric cars and also to establish the most popular station and their postal code.
+This project was done by Vincent Leteipa through the google collaborator using the pandas library. Currently there no known bugs, if you come across any please feel free to let me know.
